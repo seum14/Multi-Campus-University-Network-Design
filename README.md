@@ -35,4 +35,4 @@ This is an academic design study. The repository contains the report and diagram
 
 ---
 
-[View my portfolio](https://github.com/seum14) · [Connect on LinkedIn](https://www.linkedin.com/in/seum14/)
+[View my portfolio](https://github.com/seum14)

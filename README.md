@@ -1,31 +1,38 @@
 # Multi-Campus University Network Design
 
-Welcome to my final year capstone project, where I've applied my knowledge and skills in network design to create a robust, scalable, and secure network infrastructure for a multi-campus university.
+A final-year capstone exploring network infrastructure for a multi-campus university, from capacity and equipment planning to wired and wireless connectivity, physical layouts and budget considerations.
 
+**Author:** [Khalid Hasan Seum](https://github.com/seum14) · **Focus:** Network architecture and infrastructure planning
 
-## Project Overview
+## Design overview
 
-This project demonstrates my ability to:
+![High-level university network design](./High%20Level%20Network%20Design.png)
 
-1. Analyze **network capacity and reliability requirements**.
-2. Determine **device requirements** for complex networks.
-3. Understand and cater to the specific **requirements of different campuses**.
-4. Make informed **network device recommendations**.
-5. Plan and allocate **budgets** effectively.
-6. Justify my **equipment and design selections**.
-7. Implement both **wired and wireless connections**, including the use of optical fiber cables.
-8. Create comprehensive **network designs** at various levels of detail.
+## Areas covered
 
-## My Contributions
+- Network capacity, reliability and campus-specific requirements.
+- Device selection and justification of equipment choices.
+- Wired, wireless and optical-fibre connectivity planning.
+- High-level architecture and detailed floor and room layouts.
+- Budget allocation and technical design documentation.
 
-Throughout this project, I've not only applied theoretical concepts but also demonstrated key professional skills such as project management, teamwork, and effective communication. I've also shown my ability to learn and adapt, picking up new technologies and methods as needed to achieve the best results.
+## Explore the deliverables
 
-## Collaboration
+| Artifact | Contents |
+| --- | --- |
+| [Project report](./Khalid-University-Network-Design.pdf) | Network design report and supporting rationale |
+| [High-level network design](./High%20Level%20Network%20Design.png) | Overview diagram |
+| [Multi-campus design](./Multi%20Campus%20University%20Latest%20Design%20v2.png) | Multi-campus network layout |
+| [Floor design](./Low%20Layer%20floor%20design%20v9.png) | Detailed floor layout |
+| [Lab room](./Lab%20Room.png) | Laboratory layout |
+| [Silent study room](./silent%20study%20room.png) | Study-space layout |
 
-I believe in the power of collaboration and I'm open to feedback and suggestions. Feel free to fork this repository and submit pull requests. I look forward to potential collaborations!
+Start with the project report for context, then use the diagrams to inspect the design at different levels of detail.
 
-## Future Goals
+## Project scope
 
-I'm committed to continuous learning and improvement. I plan to further refine my skills in network design and broaden my knowledge in other areas of IT. I'm excited about the opportunities and challenges that lie ahead in my career journey.
+This is an academic design study. The repository contains the report and diagram deliverables; it documents the planning and design process rather than a live university deployment.
 
-# https://github.com/seum14/Multi-Campus-University-Network-Design
+---
+
+[View my portfolio](https://github.com/seum14) · [Connect on LinkedIn](https://www.linkedin.com/in/seum14/)
